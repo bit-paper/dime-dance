@@ -1,0 +1,4 @@
+<music root="music/">
+	<track name="CoinD" path="specialist.ogg" loop="false">
+	</sound>
+</music>
